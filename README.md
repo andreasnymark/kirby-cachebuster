@@ -1,5 +1,7 @@
 # Cachebuster plugin
 
+*Updated version to work with Kirby 4.*
+
 A plugin for [Kirby 3 CMS](http://getkirby.com) to add modification timestamps to your css and js files, as long as they are embedded with the css() and js() helpers.
 
 Please note that this plugin doesn't add caching headers to your CSS and JS files. To make proper use of this plugin, you need to add caching rules to your server configuration.
